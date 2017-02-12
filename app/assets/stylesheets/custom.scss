@@ -1,0 +1,21 @@
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
+
+
+
+ // Core variables and mixins
+ @import "bootstrap/variables";
+
+ // Components
+ @import "bootstrap/navs";
+  $navbar-inverse-bg: #003366; // variable initializing
+  $navbar-height: 34px;
+  $navbar-collapse-max-height: 340px;
+  $navbar-default-link-color: #c8c8c8;
+  $navbar-default-link-hover-color: #ffffff;
+
+
+
+
+
+ @import "bootstrap/navbar";
