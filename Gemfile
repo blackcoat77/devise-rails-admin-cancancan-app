@@ -43,6 +43,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'rails_admin', '~> 1.1.1'
 gem 'rails_admin_rollincode', '~> 1.0'
 gem 'annotate'
+gem 'autoprefixer-rails'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

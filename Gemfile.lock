@@ -207,6 +207,7 @@ PLATFORMS
 
 DEPENDENCIES
   annotate
+  autoprefixer-rails
   bootstrap-sass (~> 3.3.6)
   byebug
   cancancan
